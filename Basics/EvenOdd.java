@@ -1,7 +1,7 @@
 package com.BridgeLabz.Basics.Assignment5.Basics;
 
 public class EvenOdd {
-    public static class OddEvenInArrayExample{
+    public static class OddEven{
         public static void main(String args[]){
             int a[]={1,2,5,6,3,2};
             System.out.println("Odd Numbers:");
