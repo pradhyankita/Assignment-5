@@ -13,6 +13,5 @@ public class QuotientRemainder {
             System.out.println("The Quotient is = " + quotient);
             System.out.println("The Remainder is = " + remainder);
         }
-    }
 
 }
