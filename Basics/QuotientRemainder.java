@@ -1,8 +1,7 @@
 package com.BridgeLabz.Basics.Assignment5.Basics;
 
 public class QuotientRemainder {
-    public static class QuotientAndRemainder {
-
+   
         public static void main(String[] args)
         {
 
